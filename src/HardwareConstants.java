@@ -5,3 +5,4 @@ public class HardwareConstants {
 	public int SCREEN_HEIGHT = 240;
 
 }
+
